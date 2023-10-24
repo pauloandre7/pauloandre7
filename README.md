@@ -15,7 +15,7 @@
             university project that focuses on sustainability as one of its key issues. :)
         </p>
         <p>
-            💻 &nbsp I'm currently studying web development on the Udemy platform.
+            💻 &nbsp <strong>I'm currently studying web development on the Udemy platform.</strong>
         </p>
         <hr>
         <h3>Tech interests</h3>
