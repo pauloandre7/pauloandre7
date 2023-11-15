@@ -33,7 +33,12 @@
             <a href="https://github.com/pauloandre7/"> 
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50px"/>
             </a>
-            </span>
+        </span>
+        <span>
+            <a href="https://github.com/pauloandre7/"> 
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50px"/>
+            </a>    
+        </span>
         <span>
             <a href="https://github.com/pauloandre7/"> 
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px"/>
