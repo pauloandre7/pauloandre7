@@ -15,7 +15,7 @@
             university project that focuses on sustainability as one of its key issues. :)
         </p>
         <p>
-            💻 &nbsp <strong>I am currently working on a project in JAVA and MySQL for the Object-Oriented Programming course at UTFPR.</strong>
+            💻 &nbsp <strong>.</strong>
         </p>
         <hr>
         <h3>Tech interests</h3>
