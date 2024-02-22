@@ -1,8 +1,9 @@
 <html>
     <body>
-        <h2>Basic Presentation</h2>
+        <!-- =================================================== -- PRESENTATION -- =================================================== -->
+        <h2>Hi!</h2>
         <p>
-            Hello, my name is <strong>Paulo André</strong>, and I currently live in Paraná, a Brazilian state. 
+            My name is <strong>Paulo André</strong>, and I currently live in Paraná, a Brazilian state. 
             <br>
             I'm in the 4th semester of <strong>Software Engineering at the Federal Technological University of Paraná</strong>
             <br>
@@ -15,10 +16,34 @@
             university project that focuses on sustainability as one of its key issues. :)
         </p>
         <p>
-            💻 &nbsp <strong>.</strong>
+            💻 &nbsp <strong>I'm currently studying REST API and Spring Boot framework for Web BackEnd.</strong>
         </p>
+        <!-- =============================================== -- INTERMEDIATE KNOWLEDGE -- =============================================== -->
         <hr>
-        <h3>Tech interests</h3>
+        <h3>Intermediate Knowledge</h3>
+        <span>
+            <a href="https://www.java.com/en/"> 
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60px"/>
+            </a>    
+        </span>
+        <span>
+            <a href="https://maven.apache.org/">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="50px"/>
+            </a>
+        </span>
+        <span>
+            <a href="https://github.com/pauloandre7/"> 
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px"/>
+            </a>    
+        </span>
+        <!-- =================================================== -- BASIC KNOWLEDGE -- =================================================== -->
+        <hr>
+        <h3> Basic Knowledge </h3>
+        <span>
+            <a href="https://spring.io/">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="60px"/>
+            </a>
+        </span>
         <span>
             <a href="https://github.com/pauloandre7/"> 
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/>
@@ -30,35 +55,31 @@
             </a>
         </span>
         <span>
-            <a href="https://github.com/pauloandre7/"> 
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50px"/>
-            </a>
-        </span>
-        <span>
-            <a href="https://github.com/pauloandre7/"> 
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50px"/>
+            <a href="https://dotnet.microsoft.com/en-us/languages/csharp"> 
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50px"/>
             </a>    
         </span>
         <span>
-            <a href="https://github.com/pauloandre7/"> 
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px"/>
+            <a href="https://dotnet.microsoft.com/en-us/"> 
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50px"/>
             </a>    
         </span>
         <span>
-            <a href="https://github.com/pauloandre7/"> 
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px"/>
-            </a>
-        </span>
-        <span>
-            <a href="https://github.com/pauloandre7/"> 
+            <a href="https://www.postgresql.org/"> 
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50px"/>
             </a>
         </span>
         <span>
-            <a href="https://github.com/pauloandre7/"> 
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50px"/>
+            <a href="https://www.python.org/"> 
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50px"/>
+            </a>
+        </span>
+        <span>
+            <a href="https://www.linux.org/"> 
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50px"/>
             </a>    
         </span>
+        <!-- =================================================== -- LINKEDIN -- =================================================== -->
         <hr>
         <h3>Connect with me in</h4>
             <p>
