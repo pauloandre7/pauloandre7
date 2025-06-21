@@ -3,20 +3,14 @@
         <!-- =================================================== -- PRESENTATION -- =================================================== -->
         <h2>Hi!</h2>
         <p>
-            My name is <strong>Paulo André</strong>, and I currently live in Paraná, a Brazilian state. 
+            My name is <strong>Paulo André</strong>, and I currently live in Paraná, a Brazilian state.
             <br>
-            I'm in the 4th semester of <strong>Software Engineering at the Federal Technological University of Paraná</strong>
+            I'm in the 4th semester of Software Engineering at the Federal Technological University of Paraná.
             <br>
-            I come from a family with limited financial resources and had the honor of being the <strong>first in my family to 
-            attend a federal university</strong>. 
-            <br>
-            My goal is to provide a better life for my mother, so I'm always willing to work hard to achieve a good income. 
-            <br>
-            Additionally, I have a strong <strong>interest in sustainable topics</strong>, to the extent that I volunteer for a 
-            university project that focuses on sustainability as one of its key issues. :)
+            I don't have much to say about me, so drink water, it's important! 
         </p>
         <p>
-            💻 &nbsp <strong>I'm currently studying REST API and Spring Boot framework for Web BackEnd.</strong>
+            💻 &nbsp <strong>I'm currently studying Network and Sockets for a personal project.</strong>
         </p>
         <!-- =============================================== -- INTERMEDIATE KNOWLEDGE -- =============================================== -->
         <hr>
