@@ -3,7 +3,7 @@
         <!-- =================================================== -- PRESENTATION -- =================================================== -->
         <h2>Hi!</h2>
         <p>
-            My name is <strong>Paulo André</strong>, and I currently live in Paraná, a Brazilian state.
+            My name is <strong>Paulo André</strong> and I currently live in Paraná, a Brazilian state.
             <br>
             I'm in the 4th semester of Software Engineering at the Federal Technological University of Paraná.
             <br>
