@@ -3,9 +3,7 @@
         <!-- =================================================== -- PRESENTATION -- =================================================== -->
         <h2>Hi!</h2>
         <p>
-            My name is <strong>Paulo André</strong> and I currently live in Paraná, a Brazilian state.
-            <br>
-            I'm in the 4th semester of Software Engineering at the Federal Technological University of Paraná.
+            My name is <strong>Paulo André</strong>. I'm a Software Engineering Student at the Federal Technological University of Paraná.
             <br>
             I don't have much to say about me, so drink water, it's important! 
         </p>
