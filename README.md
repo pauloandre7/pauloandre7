@@ -14,7 +14,7 @@
         </p>
         <!-- =============================================== -- INTERMEDIATE KNOWLEDGE -- =============================================== -->
         <hr>
-        <h3>Intermediate Knowledge</h3>
+        <h3>Frequently using...</h3>
         <span>
             <a href="https://www.java.com/en/"> 
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60px"/>
@@ -25,14 +25,9 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="50px"/>
             </a>
         </span>
-        <span>
-            <a href="https://github.com/pauloandre7/"> 
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px"/>
-            </a>    
-        </span>
         <!-- =================================================== -- BASIC KNOWLEDGE -- =================================================== -->
         <hr>
-        <h3> Basic Knowledge </h3>
+        <h3> I know some things about this... </h3>
         <span>
             <a href="https://spring.io/">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="60px"/>
@@ -48,6 +43,7 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/>
             </a>
         </span>
+        <!--
         <span>
             <a href="https://dotnet.microsoft.com/en-us/languages/csharp"> 
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50px"/>
@@ -56,6 +52,12 @@
         <span>
             <a href="https://dotnet.microsoft.com/en-us/"> 
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50px"/>
+            </a>    
+        </span>
+        -->
+         <span>
+            <a href="https://github.com/pauloandre7/"> 
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px"/>
             </a>    
         </span>
         <span>
