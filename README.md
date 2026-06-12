@@ -60,14 +60,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
 </span>
 
-<!-- API FORA DO AR
----
-
+<br>
+<br>
+<br>
+<br>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloandre7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloandre7&layout=compact&langs_count=7&theme=dracula"/>
 </p>
--->
 
 ---
 
